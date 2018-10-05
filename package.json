@@ -1,0 +1,22 @@
+{
+  "name": "web-awesome",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pohon/web-awesome.git"
+  },
+  "author": "sullivan osmond",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pohon/web-awesome/issues"
+  },
+  "homepage": "https://github.com/pohon/web-awesome#readme",
+  "dependencies": {
+    "firebase": "^5.5.3"
+  }
+}
