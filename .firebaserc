@@ -1,0 +1,6 @@
+{
+  "projects": {
+    "default": "web-awesome",
+    "development": "web-awesome"
+  }
+}
